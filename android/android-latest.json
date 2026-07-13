@@ -1,8 +1,8 @@
 {
-  "version_code": 35,
-  "version_name": "0.28.0",
+  "version_code": 36,
+  "version_name": "0.28.1",
   "apk_url": "https://raw.githubusercontent.com/Swifty-Chris/labbridge-releases/main/android/labbridge-android-beta.apk",
-  "apk_sha256": "9de191829a31f3a196fe977397cea387392885f69184d7969cbfc0e94362448d",
+  "apk_sha256": "017bac4ea6db0fceef87916a202c6d2770d109002c8ada4f9b1d5786f7377e19",
   "apk_size_mb": 39,
-  "released_at": "2026-07-10T19:23:45Z"
+  "released_at": "2026-07-13T16:09:00Z"
 }
